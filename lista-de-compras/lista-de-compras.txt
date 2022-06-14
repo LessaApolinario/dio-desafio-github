@@ -1,0 +1,6 @@
+Compras:
+
+1. Açúcar;
+2. Café;
+3. Arroz;
+4. Frutas;
