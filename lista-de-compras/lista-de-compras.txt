@@ -4,3 +4,7 @@ Compras:
 2. Café;
 3. Arroz;
 4. Frutas;
+5. Pão;
+6. Iogurte;
+7. Carne;
+8. Cereal;
